@@ -98,4 +98,4 @@ Pull requests are welcome. Please open an issue first for large changes.
 
 ## License
 
-Apache License 2.0 — see [LICENSE](LICENSE).
+MIT License — see [LICENSE](LICENSE).
