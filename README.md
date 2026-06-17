@@ -27,7 +27,7 @@ Transform your Snowflake data catalog with AI-powered descriptions, smart automa
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/YOUR_ORG/horizon-catalog-streamlit.git
+   git clone https://github.com/sfc-gh-rcoy/horizon-catalog-streamlit.git
    cd horizon-catalog-streamlit
    ```
 
